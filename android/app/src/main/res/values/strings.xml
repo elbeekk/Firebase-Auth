@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resourses>
+    <string name="app_name">ElbeksApp</string>
+    <string name="facebook_app_id">1339074670341992</string>
+    <string name="fb_login_protocol_scheme">fb1339074670341992</string>
+    <string name="facebook_client_token">6c985674a1ef39188cc372347471c07d</string>
+</resourses>
