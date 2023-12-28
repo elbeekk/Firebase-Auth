@@ -1,16 +1,14 @@
-# allregistrationtypes
+# All Firebase Auth types in one app
 
-A new Flutter project.
+Developed using Flutter framework and Firebase Database
 
-## Getting Started
+## Included Auth Types
 
-This project is a starting point for a Flutter application.
+- Facebook
+- Google
+- Anonymous
+- Email/Password
+- Phone Number
 
-A few resources to get you started if this is your first Flutter project:
+## Preview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
